@@ -1,0 +1,31 @@
+# Built variants
+**/build/
+/build/
+
+# Gradle files
+.gradle/
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Kotlin files
+.kotlin/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.navigation/
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw datasets (too large for Git)
+data for DCS/
